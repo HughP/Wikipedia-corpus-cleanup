@@ -1,0 +1,2069 @@
+9	
+5	Frasera paniculata 
+3	Amaranthus albus 
+9	Guaputa (Kopata?)
+5	United Kingdom (UK)
+10	trivalent influenza vaccine (TIV)
+5	(Chilopoda)
+5	(Diplopoda)
+3	(Arthropleuridea)
+3	Maak (marka)
+5	(Symphyla)
+5	(Pauropodina)
+9	(Meleagris ocellata)
+21	Belfast (N. Ireland)
+3	(Bradypodidae)
+7	(Legislative)
+7	(Executive)
+3	dong (đồng)
+3	Togwog (Tögrög)
+5	(Al-Jumhūriyyah al-ʿArabiyyah as-Sūriyyah)
+7	(Judicial)
+9	(Meleagris gallopavo)
+3	vaccination(s)
+21	Cardiff (Wales)
+13	ἱπποπόταμος (hippopotamos)
+3	Pinus (Ducampopinus)
+3	(Choloepus)
+5	scorched earth (military strategy)
+3	Cover Your Cough,
+3	Don’t share drinking containers,
+13	Ore-
+3	Apple, Inc.
+3	General Growth Properties, Inc.
+3	I-40
+5	Expedition 1
+7	Repeal section 10(f) of Public Law 93-531
+3	Pima Rebellion of 1751
+9	Mir 2
+3	bee hasʼaanii / Public Law 106-554, 114 Statute 2763
+5	Expedition 18
+5	Expedition 19
+5	C
+3	PC
+3	H2O
+5	Mars Exploration Rover-a
+3	Tyto alba
+5	Pica
+3	Mustela altaica
+3	Mangifera indica
+3	Opuntia ficus indica
+3	Fulica
+3	Potentilla pensylvanica
+3	Plantago patagonica
+3	Valeriana arizonica
+5	Dithyrea californica
+3	Cyanopica
+3	Saiga tatarica
+3	Mesoamerica
+3	South Africa
+3	Sub-Saharan Africa
+3	Prunus persica
+3	Rhus aromatica
+3	Argyroneta aquatica
+3	Urtica
+5	Malus domestica
+3	Panthera onca
+5	Histriophoca
+3	Yucca glauca
+3	Picea glauca
+3	Prionace glauca
+3	Ailuropoda melanoleuca
+3	Ratibida
+3	Sidalcea candida
+5	Dalea candida
+3	Machaeranthera pinnatifida
+3	Artemisia frigida
+13	Kaniida
+3	Arachnida
+3	Thelyphonida
+5	Pseudoscorpionida
+3	Oribatida
+3	Aristida
+5	The Legend of Zelda
+13	Princess Zelda
+17	Red Panda
+17	panda
+5	Paradisaea apoda
+3	Decapoda
+3	Myriapoda
+3	Cephalopoda
+3	Chilopoda
+3	Diplopoda
+3	Tylopoda
+5	Arthropoda
+5	Gastropoda
+5	Octopoda
+3	Monarda
+9	Vulpes zerda
+3	Mentzelia nuda
+5	Noccaea
+3	Sitta pygmaea
+5	Paradisaea
+5	Dermochelys coriacea
+3	Spinacia oleracea
+3	Cetacea
+3	Picea
+3	Cornus sericea
+3	Sphaeralcea
+5	Pterospora andromedea
+3	Oniscidea
+5	Kiwaoidea
+3	Hyracoidea
+3	Astacoidea
+3	Aphidoidea
+5	Scarabaeoidea
+7	Musteloidea
+5	Echinoidea
+3	Crinoidea
+3	Hippoidea
+5	Asteroidea
+3	Muroidea
+5	Holothuroidea
+5	Ophiuroidea
+3	Caridea
+5	Phasmatodea
+5	Phasmatodea
+5	Mantodea
+3	Blattodea
+5	Allenrolfea
+3	Sambucus cerulea
+3	Haumea
+3	Sphaeralcea coccinea
+3	Mustela erminea
+3	Galerella sanguinea
+3	Hyaena brunnea
+3	Chionea
+3	Usnea
+5	Neophoca cinerea
+3	Corydalis aurea
+5	Pellaea atropurpurea
+3	Epipactis gigantea
+13	ziraafa
+3	Trachelophorus giraffa
+3	Sus scrofa
+5	Aplodontia rufa
+3	Ratufa
+5	Phyllophaga
+3	Viverra tangalunga
+3	Mirounga
+3	crema de tortuga
+3	Timarcha
+5	Poecilogale albinucha
+5	Dzongha
+13	zurapha
+3	Amorpha
+3	Selachimorpha
+3	Hystricomorpha
+3	Oniscomorpha
+3	Lagomorpha
+3	Scolopendra polymorpha
+3	Typha
+5	Archaeognatha
+3	Aquilegia micrantha
+5	Pyrola chlorantha
+3	Amphibia
+3	Amphibia
+5	amphibia
+5	acacia
+3	Uncia uncia
+3	Pardofelis badia
+15	encyclopaedia
+15	encyclopaedia
+15	encyclopaedia
+3	Lesquerella intermedia
+5	Pinnipedia
+3	Scolecophidia
+3	Dyssodia
+3	Gaillardia
+3	Shepherdia
+3	Synanceia
+15	Lucubrationes vel potius absolutissima kyklopaideia
+3	Muhlenbergia
+5	Fallugia
+3	Dendroica petechia
+5	Descurainia sophia
+5	Sisymbrium sophia
+3	Psophia
+5	Australia
+5	Australia
+7	Australia
+9	Australia
+5	Placentalia
+3	Gambelia
+3	Reptilia
+3	Lacertilia
+3	Lacertilia
+3	Parthenocissus quinquefolia
+3	Agastache urticifolia
+3	Clematis ligusticifolia
+3	Amelanchier alnifolia
+3	Atriplex confertifolia
+3	Sphaeralcea angustifolia
+4	Populus angustifolia
+3	Antennaria parvifolia
+3	Crocodylia
+3	Adejeania
+3	Tasmania
+5	Tasmania
+7	Tasmania
+3	Amphisbaenia
+5	Reverchonia
+5	Surnia
+5	Harpia
+3	Ceriantharia
+5	Halerpestes cymbalaria
+5	Ranunculus cymbalaria
+3	Crotalaria
+3	Mammillaria
+3	Athene cunicularia
+5	Reverchonia arenaria
+5	Geochelone carbonaria
+5	Chelonoidis carbonaria
+3	Physaria
+3	Sagittaria
+3	Comancheria
+3	Afrotheria
+5	Eutheria
+5	Gilia leptomeria
+5	Aliciella leptomeria
+9	mycobacteria
+11	Archosauria
+11	Archosauria
+7	Western Asia
+3	Scandentia
+3	Rodentia
+3	Hyperoartia
+3	Cavia
+7	Scandinavia
+3	Cichorium endivia
+3	Bivalvia
+3	Ammotragus lervia
+3	Gutierrezia
+3	Naja
+3	Castilleja
+5	Harpia harpyja
+9	Wasinka
+5	Urodela
+3	Mustela
+5	Mustela
+7	Eulipotyphla
+3	Anthophila
+3	Mentzelia pumila
+5	Pellaea glabella
+3	Tineola bisselliella
+3	Selaginella
+3	Sturnella
+5	Nasuella
+5	Nasuella
+5	Chinchilla
+5	Chinchilla
+11	jicarilla
+5	Gorilla
+5	gorilla
+9	Venta de La Mesilla
+9	Sale of La Mesilla
+3	Rhus choriophylla
+3	Pinus monophylla
+3	Arenicola
+3	Fendlera rupicola
+3	Trichosurus vulpecula
+3	Fratercula
+3	Gastrophysa viridula
+5	Usnea filipendula
+3	Martes flavigula
+3	Egretta thula
+5	Surnia ulula
+3	Campanula
+3	Lappula
+3	Vespula
+5	Berula
+3	Asclepias asperula
+3	Arctostaphylos patula
+3	Betula
+3	Aquilegia elegantula
+3	Helogale parvula
+3	Symphyla
+3	Myrmecophaga tridactyla
+3	Dama dama
+5	Lama glama
+5	Bishlama
+5	Mazama
+3	Moneilema
+9	Pima
+9	Pima
+7	Tellima
+7	tellima
+5	Cucurbita foetidissima
+5	Coleogyne ramosissima
+5	Norta altissima
+5	Dithyrea maritima
+3	Triglochin maritima
+3	Phrynosoma
+3	Rhina ancylostoma
+3	Thelesperma
+9	Wabyuma
+3	Artemisia cana
+3	Rhea americana
+3	Persea americana
+3	Vicia americana
+5	Kochia americana
+5	Bassia americana
+9	Antilocapra americana
+3	Martes americana
+3	Grus americana
+3	Grus americana
+5	Grus americana
+3	Sialia mexicana
+3	Alnus incana
+3	Descurainia incanaincana
+3	Juniperus deppeana
+5	Nucifraga columbiana
+3	Artemisia ludoviciana
+3	Rana catesbeiana
+3	Paradisaea raggiana
+3	Sophora nuttalliana
+3	Prunus virginiana
+3	Carpinus caroliniana
+3	Purshia stansburiana
+3	Pseudostellaria jamesiana
+5	Musa balbisiana
+3	Nicotiana
+3	Hedeoma nana
+3	Iguana iguana
+3	Ephedra torreyana
+9	echidna
+9	echidna
+3	Sphyraena
+3	Hyaena hyaena
+3	Solanum melongena
+3	Hypogeomys antimena
+5	Lumbricina
+5	Poa andina
+3	Martes foina
+5	Potentilla anserina
+5	Argentina anserina
+3	Psilostrophe tagetina
+7	Suina
+7	Suina
+3	Gymnophiona
+3	Ochotona
+3	Vormela peregusna
+3	Poa
+3	Scyphozoa
+3	Townsendia exscapa
+5	napa
+7	napa
+7	Brassica rapa
+3	Nepa
+5	Wipukepa
+5	Wipukepa
+9	Wipukepa
+3	Pipa pipa
+3	Xylocopa
+3	Nolina microcarpa
+3	Vespa
+3	Vespa
+3	Ribes uva-crispa
+5	Upupa
+5	Hake-djeka’dja, Ilwi’nya-ha’, Kahwa’t, Tak-tada’pa
+7	Klara
+3	Paradisaea rubra
+3	Ephedra
+3	Hydra
+3	Euphorbia brachycera
+3	Cocos nucifera
+3	Diabrotica virgifera
+5	Caelifera
+5	Caelifera
+5	Caelifera
+3	Phoenix dactylifera
+3	Porifera
+3	Oenothera
+5	di-ptera
+3	Dermaptera
+3	Diptera
+5	Lepidoptera
+5	Coleoptera
+3	Zygoptera
+3	Trichoptera
+3	Raphidioptera
+3	Ephemeroptera
+3	Chiroptera
+3	Neuroptera
+3	Isoptera
+5	Anisoptera
+7	Variola vera
+5	Suaeda nigra
+3	Pecora
+3	Polyplacophora
+3	Onychophora
+3	Stephanomeria pauciflora
+3	Brickellia grandiflora
+3	Zinnia grandiflora
+7	Tellima grandiflora
+3	Campanula uniflora
+3	Isocoma pluriflora
+3	Mentzelia multiflora
+3	Mirabilis multiflora
+3	Collinsia parviflora
+5	Gaura parviflora
+5	Festuca octoflora
+5	Vulpia octoflora
+5	Pterospora
+5	folivora
+3	Carnivora
+7	Insectivora
+9	Antilocapra
+7	Terra
+3	Canberra
+9	Brethren of Purity of Basra
+5	Ondatra
+5	Sumatra
+3	Ranatra
+3	Diplura
+5	Anura
+3	Thysanura
+5	Echinosorex gymnura
+3	Brachyura
+9	Anasa
+5	Ericameria nauseosa
+3	Frasera speciosa
+3	Asclepias speciosa
+3	Actinidia deliciosa
+3	Pilosa
+5	Pilosa
+7	Pilosa
+3	Purshia glandulosa
+3	Monarda fistulosa
+5	Lygodesmia spinosa
+3	Coosa
+3	Asclepias tuberosa
+3	Oxytenia acerosa
+3	Munroa squarrosa
+3	Rumex acetosa
+3	Fragaria × ananassa
+3	Rusa
+3	Babyrousa
+3	Rhus trilobata
+5	Usnea barbata
+3	Yucca baccata
+3	Gallinago delicata
+3	Fraxinus cuspidata
+3	Hyles lineata
+3	Amphispiza bilineata
+3	Polyphylla decemlineata
+3	Leptinotarsa decemlineata
+3	Mungotictis decemlineata
+3	Ipomopsis aggregata
+5	Histriophoca fasciata
+3	Rudbeckia laciniata
+3	Silene laciniata
+3	Yucca elata
+3	Cynictis penicillata
+3	Asclepias verticillata
+3	Asclepias subverticillata
+3	Psoralea lanceolata
+5	Cercis orbiculata
+3	Celtis reticulata
+3	Ungulata
+5	Ungulata
+3	Phacelia crenulata
+3	Diorhabda carinulata
+5	Monotremata
+3	Dalea lanata
+3	Krascheninnikovia lanata
+3	Mustela frenata
+5	Swertia albomarginata
+5	Frasera albomarginata
+5	Musa acuminata
+3	Vertebrata
+5	Berlandiera lyrata
+3	Monarda punctata
+3	Diabrotica undecimpunctata
+3	Gilia capitata
+3	Purshia tridentata
+3	Cyanocitta cristata
+13	Proteles cristata
+3	Hystrix cristata
+3	Nicotiana attenuata
+3	Chauna torquata
+3	Paguma larvata
+5	Berula erecta
+5	Insecta
+3	Verbena stricta
+3	Knulliana cincta
+3	Dasyprocta
+5	Leopardus jacobita
+3	Trilobita
+3	Psoralea esculenta
+3	Galerella pulverulenta
+5	military junta
+3	Glycyrrhiza lepidota
+3	Marmota
+3	Petrochelidon pyrrhonota
+3	Daucus carota
+5	Hua-na-tota
+3	Suricata suricatta
+3	Genetta
+3	Scopus umbretta
+3	Civettictis civetta
+3	Crocuta crocuta
+3	Cuscuta
+5	Kiwa hirsuta
+3	Manduca sexta
+3	Tamandua
+3	Salix exigua
+7	Vermilingua
+17	Core Nahua
+5	Poa annua
+5	Madoqua
+5	Nasua
+5	Nasua
+5	Java
+9	Hachpa Anya Nyava
+5	Chivekaha’, Djimwā’nsevio’, Ha-djiluwa’ya, Hapu’k, Kwakwa’, Kwal-hwa’ta, Kwathā’wa, Tak-mi’nva
+11	wa
+5	Hakeskia’l, Hakia’ch, Ka’nyu’tekwa’, Tha’va-ka-lavala’va, Wi-ka-tāva, Witevikivol, Witkitana’kwa
+9	Towa
+19	Walatowa
+19	Waltowa
+5	Hakia`tce-pai/Talta`l-kuwa
+3	Salvia reflexa
+5	Fallugia paradoxa
+3	Carica papaya
+5	Tolkepaya
+9	Tolkepaya
+5	Kwevkepaya
+9	Kwevkepaya
+3	Sayornis saya
+3	woogiya
+3	kwanza
+9	Abu Markub
+3	Vulpes corsac
+9	fennec
+3	republic
+3	republic
+3	republic
+3	republic
+3	republic
+5	republic
+5	republic
+5	republic
+7	republic
+7	republic
+3	Islamic republic
+3	democratic republic
+5	presidential republic
+5	presidential republic
+3	federal presidential republic
+3	unitary presidential republic
+3	semi-presidential republic
+5	semi-presidential republic
+3	federal republic
+3	socialist republic
+3	parliamentary republic
+3	parliamentary republic
+3	parliamentary republic
+3	parliamentary republic
+3	parliamentary republic
+3	parliamentary republic
+5	parliamentary republic
+5	parliamentary republic
+9	asymptomatic
+5	Military scorched earth tactic
+5	Semitic
+11	Core Yuman saad
+9	cross bred
+3	federally recognized
+5	militarized
+11	Naachid
+7	World
+5	New Zealand
+21	Northern Ireland
+7	Northern Ireland
+21	England
+11	Vinland
+11	Vinland
+13	Vinland
+13	Vinland
+9	Long Staple Upland
+9	Short Staple Upland
+5	Black Legend
+5	Black Legend
+3	Trust Fund
+3	Pound
+3	pound
+3	pound
+11	Triassic period
+7	late Triassic period
+7	Cretaceous period
+7	Cretaceous period
+3	Casino Hollywood
+5	arthropod
+13	aard
+17	aard
+15	Gold Standard
+15	Gold standard
+15	Gold standard
+3	Checker-board
+13	l(e)opard
+11	Harvard
+11	Harvard
+3	Presidential Medal of Freedom award
+3	cowbord
+13	Master Sword
+3	Nabidae
+3	Columbidae
+3	Phalacrocoracidae
+3	Parastacidae
+3	Picidae
+3	Cimicidae
+3	Soricidae
+3	Salticidae
+3	Pholcidae
+5	Centriscidae
+3	Dytiscidae
+3	Muscidae
+3	Cerambycidae
+5	Cicadidae
+3	Aradidae
+7	Nereididae
+3	Macroscelididae
+3	Numididae
+3	Batrachoididae
+3	Chrysididae
+3	Lithodidae
+3	Apodidae
+9	Macropodidae
+5	Dasypodidae
+3	Alydidae
+3	Diomedeidae
+3	Galatheidae
+3	Coreidae
+3	Sarcophagidae
+3	Musophagidae
+3	Anhingidae
+7	Sphingidae
+3	Trichechidae
+3	Trionychidae
+3	Ascalaphidae
+3	Didelphidae
+3	Syrphidae
+3	Priacanthidae
+5	Xiphiidae
+5	Phylliidae
+5	Ciconiidae
+5	Tettigoniidae
+3	Fistulariidae
+3	Stercorariidae
+3	Platycephalidae
+3	Sialidae
+3	Cardinalidae
+5	Felidae
+3	Chelidae
+5	Peramelidae
+3	Chrysomelidae
+3	Mustelidae
+5	Hydrophilidae
+3	Pompilidae
+5	Asilidae
+3	Sabellidae
+3	Cicadellidae
+3	Coccinellidae
+3	Trochillidae
+3	Mutillidae
+3	Gryllidae
+3	Psyllidae
+3	Sulidae
+3	Galbulidae
+3	Cuniculidae
+3	Tipulidae
+3	Crocodylidae
+3	Ctenodactylidae
+3	Cariamidae
+3	Pleocomidae
+3	Pentatomidae
+3	Canidae
+3	Canidae
+3	Tabanidae
+3	Jacanidae
+3	Pelecanidae
+3	Hyaenidae
+3	Centrolenidae
+3	Hirundinidae
+3	Tachinidae
+5	Staphylinidae
+3	Myxinidae
+3	Channidae
+3	Bufonidae
+5	Papilionidae
+5	Papilionidae
+3	Curculionidae
+3	Ichneumonidae
+7	Procyonidae
+3	Sternidae
+3	Kinosternidae
+3	Sphyrnidae
+3	Meloidae
+5	Potoroidae
+3	Salpidae
+3	Talpidae
+5	Gryllotalpidae
+3	Meropidae
+3	Nephropidae
+3	Mantispidae
+3	Laridae
+3	Paridae
+3	Scyllaridae
+3	Chelydridae
+3	Scutelleridae
+3	Passeridae
+3	Elateridae
+3	Dactylopteridae
+5	Orthomyxoiridae
+3	Gelastocoridae
+3	Calliphoridae
+3	Rhaphidophoridae
+3	Odontophoridae
+3	Chrysochloridae
+3	Leporidae
+3	Gerridae
+3	Viverridae
+3	Viverridae
+3	Hydrometridae
+3	Oestridae
+3	Recurvirostridae
+3	Sciuridae
+3	Palinuridae
+5	Lampyridae
+3	Lycosidae
+3	Amblyopsidae
+3	Ursidae
+7	Ursidae
+3	Ambassidae
+3	Osteoglossidae
+9	Tachyglossidae
+7	Vombatidae
+3	Rhinobatidae
+3	Hydrobatidae
+3	Belostomatidae
+5	Anatidae
+5	Dasyatidae
+3	Notonectidae
+3	Halictidae
+3	Exocoetidae
+3	Mephitidae
+3	Elephantidae
+3	Octodontidae
+3	Polyodontidae
+3	Myrmeleontidae
+3	Phaethontidae
+3	Rhinocerotidae
+3	Ramphastidae
+5	Dermestidae
+3	Herpestidae
+3	Buprestidae
+5	Pristidae
+3	Equidae
+7	Equidae
+7	Equidae
+3	Gruidae
+3	Tayassuidae
+3	Bovidae
+3	Cervidae
+3	Corvidae
+3	Corixidae
+3	Prodoxidae
+3	Geomyidae
+5	Dinomyidae
+3	Orobanchaceae
+3	Lamiaceae
+5	Cucurbitaceae
+3	Araneae
+3	Araneae
+3	Solifugae
+5	Vermivora luciae
+5	Oreothlypis luciae
+3	Dromaius novaehollandiae
+3	oxudercinae
+3	Erinaceinae
+3	Plateinae
+3	Bathyerginae
+3	Bruchinae
+3	Threskiornithinae
+3	Oecanthinae
+3	Corydalinae
+3	Arctocephalinae
+3	Cicindelinae
+3	Epinephelinae
+3	Gerbillinae
+3	Arvicolinae
+5	Caimaninae
+3	Picumninae
+3	Tetraoninae
+5	Anserinae
+3	Caprinae
+5	Caprinae
+7	Caprinae
+3	Lutrinae
+7	Tremarctinae
+3	Sigmodontinae
+7	Sigmodontinae
+5	Dolichotinae
+3	Dynastinae
+3	Agama mwanzae
+19	this is the place
+9	mechanoluminescence
+9	mechanoluminescence
+9	mechanoluminescence
+5	Bretton Woods Conference
+3	blue spruce
+11	Kinya-Inde
+11	code
+11	code
+3	code
+7	absolute magnitude
+11	Ndee
+3	Chairman of the Tribal Council’s Health and Welfare Committee
+7	Supai / Supai village
+7	Turkic language
+3	Sinitic language
+11	Pai language
+7	national language
+3	Southern Athabaskan language
+13	medium of exchange
+15	medium of exchange
+5	Tonto-Apache
+3	ecological niche
+3	Piipaash / Pipatsje
+3	Makemake
+9	quake
+3	Melogale
+3	Thylogale
+3	Petrogale
+7	Apache fiddle
+5	Victorville
+13	Hyrule
+11	slurry pipeline
+7	iphone
+9	Dame à la licorne
+5	Coleogyne
+5	antelope
+5	antelope
+3	Europe
+3	Europe
+5	Europe
+5	Europe
+3	Marrubium vulgare
+3	Cirsium vulgare
+3	Panicum capillare
+5	Sucre
+5	Western Culture
+3	Plains Indian horse culture
+3	lease
+3	lease
+3	lease
+9	active disease
+5	birds of paradise
+5	Gnaphalium chilense
+3	Cerastium arvense
+3	Equisetum arvense
+7	heliopause
+9	-mouse
+9	dormouse
+7	Ute
+7	Ute
+5	MyPlate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+3	estimate
+5	estimate
+5	estimate
+21	Head of state
+5	single-party state
+9	Juan de Oñate
+5	website
+3	Pima Butte
+13	store of value
+5	Agave
+5	agave
+5	Apache-Mohave
+15	representative
+7	Bennett Freeze
+7	Türkçe
+13	aardwolf
+13	aardwolf
+13	Ganondorf
+15	gyag
+5	blitzkrieg
+5	blitzkrieg
+7	trepang
+13	ethnic cleansing
+11	Four Great Books of Song
+3	Arctictis binturong
+5	Mēxihcah
+11	ostrich
+5	inch
+5	inch
+5	Catholic Church
+5	Roman Catholic Church
+7	Deutsch
+5	Ohkay Owingeh
+11	dah adidloh
+11	Joseph
+3	mph
+3	shash
+3	guitarfish
+7	English
+5	Haʼagizh
+5	Hual`la-pai
+5	Mata`va-kapai
+5	Kwe`va-kapai
+5	Soto`lve-kapai
+5	Ko`o`u-kapai
+5	Nyav-kapai
+5	Yavapai
+3	Cheilanthes feei
+3	Dasyuroides byrnei
+7	Nationalsozialistische Deutsche Arbeiterpartei
+5	Fungi
+3	Amblypygi
+3	Paradisaea rudolphi
+3	Trifolium wormskioldii
+3	Hedeoma drummondii
+3	Leptocardii
+3	Ammodramus bairdii
+5	Aphelocoma woodhouseii
+3	Cordylanthus kingii
+3	Lupinus kingii
+5	Dinomys branickii
+3	Pardofelis temminckii
+3	Verbena macdougalii
+3	Lilioceris lilii
+3	Helianthus nuttallii
+3	Calochortus nuttallii
+5	Lupinus lyallii
+3	Atriplex powellii
+5	Suaeda moquinii
+3	Eriogonum heermannii
+3	Hymenoxys richardsonii
+3	Ipomopsis gunnisonii
+3	Calochortus gunnisonii
+5	Accipiter cooperii
+5	sii
+3	Tragelaphus angasii
+3	Silene douglasii
+3	Polygonum douglasii
+5	Neurotrichus gibbsii
+3	Herpestes edwardsii
+3	Eriogonum jamesii
+5	Sarcophilus harrisii
+3	Linum lewisii
+5	Malus sieversii
+3	Lasiorhinus krefftii
+3	Thelypodium wrightii
+3	Mahonia fremontii
+3	Chenopodium fremontii
+3	Oxytropis lambertii
+3	Megascops kennicottii
+3	Salsola kali
+5	Nepali
+7	Türk dili
+3	Ovis dalli
+3	Eudicella gralli
+3	ocelli
+5	Waitikubuli
+11	nami
+11	tsunami
+9	Qichwa shimi
+9	Runashimi
+9	Qhichwa simi
+9	Runasimi
+3	Hylochoerus meinertzhageni
+3	Dimorphocarpa wislizeni
+3	Meliponini
+5	Phalangerini
+3	Anthophorini
+3	Euglossini
+5	Petauristini
+5	Pteromyini
+3	Rhizomyini
+3	Agelastica alni
+3	Moroni
+3	Ovis canadensis nelsoni
+7	Okapia johnstoni
+3	Mitsukurina owstoni
+3	uni
+5	bok choi
+7	bok choi
+3	Dipnoi
+7	o'api
+5	Thlaspi
+15	dri
+5	Macrocheira kaempferi
+3	Galidictis grandidieri
+5	Euphorbia fendleri
+3	Arenaria fendleri
+5	Lesquerella fendleri
+5	Chamaesyce fendleri
+3	Thalictrum fendleri
+3	Ceanothus fendleri
+3	Litocranius walleri
+3	Cyanocitta stelleri
+3	Penstemon palmeri
+3	Capra falconeri
+3	Aptenodytes forsteri
+3	Echinops telfairi
+3	Ardeotis kori
+3	Arctostaphylos uva-ursi
+3	Lophiomys imhausi
+3	Mysticeti
+3	Odontoceti
+3	Sciurus aberti
+3	Sitsomovi
+3	Pituophis catenifer sayi
+3	Micrathene whitneyi
+3	Helianthella parryi
+3	Physaria newberryi
+15	jiaozi
+15	nak
+15	yak
+15	yak
+5	attack
+3	Lek
+9	S-ki:kigk
+5	diʼ-dik
+3	Sky Bank
+13	Link
+3	junk
+5	Facebook
+5	National Park
+3	Everglades National Park
+3	National Historic Landmark
+3	National Historic Landmark
+3	National Historic Landmark
+5	National Historic Landmark
+17	vark
+17	aardvark
+17	aardvark
+5	Druk
+3	Caracal caracal
+9	Ibn Sina’s medical
+5	most fearless animal
+3	commanding general
+9	quartz crystal
+11	homosexual
+3	Leptailurus serval
+11	hwal
+5	hwal
+7	bikeeʼ daniteel
+5	shekel
+5	shekel
+13	camel
+7	Channel Tunnel
+7	ratel
+3	La Posada Hotel
+3	Alvarado Hotel
+3	El Navajo Hotel
+9	small
+5	Montezuma Well
+7	duckbill
+9	Fort Mohave-Precott Toll
+9	Phascol
+5	Fort Thomas High School
+3	Ramah Navajo School
+5	Fort Thomas Elementary School
+3	McNary Elementary School
+3	sol
+7	español
+3	Quechua - Aymara al español
+3	Otocolobus manul
+9	Akimel Oʼodham
+3	dwam
+7	National Anthem
+21	parliamentary system
+9	Freedom
+3	kingdom
+3	kingdom
+7	kingdom
+9	organism
+9	microorganism
+3	Chenopodium album
+3	Eriogonum microthecum
+3	Solanum lycopersicum
+3	Triticum
+3	Heliotropium curassavicum
+5	Petalostemum candidum
+3	Lycium pallidum
+7	Ibn Khaldum
+5	Pseudognaphalium stramineum
+3	Ribes aureum
+5	Eutrochium purpureum
+5	Eupatorium purpureum
+3	Arceuthobium
+3	Epilobium
+3	Glaucidium
+3	Lagidium
+3	Xanthium
+3	Lilium
+3	Achillea millefolium
+3	Solanum elaeagnifolium
+3	Astranthium integrifolium
+3	Mahonia aquifolium
+3	Datura stramonium
+3	Erodium cicutarium
+3	osmeterium
+3	Nasturtium
+3	Prunus avium
+3	Platysternon megacephalum
+3	Trifolium eriocephalum
+3	Arisaema triphyllum
+5	Sisymbrium altissimum
+3	Cirsium neomexicanum
+3	Glaucidium brasilianum
+5	Antirrhinum
+3	Pteridium aquilinum
+3	Phoradendron juniperinum
+3	Rheum rhabarbarum
+3	Saccharum
+3	Acer glabrum
+3	Erysimum asperum
+5	De proprietatibus rerum
+3	Solanum triflorum
+3	Lepidium densiflorum
+3	Lithospermum multiflorum
+3	Conioselinum scopulorum
+3	Juniperus scopulorum
+3	Bromus tectorum
+3	Ribes pinetorum
+3	Maianthemum racemosum
+5	Delphinium scaposum
+3	Epilobium ciliatum
+3	Eriogonum alatum
+3	Eriogonum inflatum
+3	Maianthemum stellatum
+5	Eriogonum fasciculatum
+5	Toxicoscordion paniculatum
+3	Eremocrinum albomarginatum
+3	Erethizon dorsatum
+3	Erysimum capitatum
+3	Acalymma vittatum
+3	Heloderma suspectum
+3	Equisetum
+7	Gossypium hirsutum
+7	Gossypium hirsutum
+9	Gossypium hirsutum
+3	Allium cernuum
+5	Nultwum
+5	Quechan
+19	Kozhan
+7	prosimian
+3	Caucasian
+3	Athabaskan
+7	Athabaskan
+5	caiman
+5	Oatman
+3	Upland Yuman
+11	Upland Yuman language/Northern Yuman
+7	balatan
+3	Pakistan
+17	Nahuan
+3	Visayan
+5	Patayan
+5	Kʼowʼan
+3	Fort Saint John
+5	Great Britain
+3	Tall Mountain
+5	nikkeijin
+11	Laughlin
+5	penicillin
+3	kaitin
+3	Iʼiapwainakwin
+7	Ophisthocomus hoazin
+3	Troglodytes aedon
+3	Dugong dugon
+5	Pandion
+5	pseudoscorpion
+13	Orion
+11	Nation to Nation relationship / Nation within a Nation
+5	Nation to Nation relationship / Nation within a Nation
+3	Navajo Nation
+3	Miss Navajo Nation
+5	Gila River Adjudication
+3	federation
+3	federation
+3	federation
+3	federation
+5	federation
+3	Navajo Nation Election Administration
+3	Anderson Mesa Station
+11	Mohave Generating Station
+11	Mohave Generating Station
+3	Coronado Generating Station
+11	Navajo Generating Station
+3	Navajo Generating Station
+3	Four Corners Generating Station
+5	White Mountain Apache Tribe of the Fort Apache Reservation
+5	Fort Apache Indian Reservation
+7	Ute Mountain Ute Indian Reservation
+7	Southern Ute Indian Reservation
+3	Havasupai Indian Reservation
+7	Uintah-Ouray Reservation
+5	decolonization
+3	infection
+3	Navajo Livestock Reduction
+5	Spanish Inquisition
+5	Spanish Inquisition
+3	Eumorpha achemon
+15	Encyclopaedia seu orbis disciplinarum tam sacrarum quam prophanarum epistemon
+3	Cervus nippon
+11	bison
+11	Bison bison
+3	Neovison vison
+11	Camp Pendleton
+3	Bassaricyon
+15	noun
+3	Valley of Mexico
+3	lords of New Mexico
+3	Falco
+5	Junco
+5	junco
+3	Colorado
+3	Panthera leo
+3	Solidago
+3	Ustilago
+3	Gallinago
+5	Sango
+3	Mungos mungo
+5	Alonzo de Lugo
+11	real de a ocho
+5	Apachu de Nabajo
+3	Navajo
+5	Navajo
+5	traditional Miss Navajo
+5	modern Miss Navajo
+9	Antonio de Espejo
+7	namako
+11	buffalo
+5	San Juan Pueblo
+3	Cucumis melo
+3	Gulo gulo
+3	Boliviano
+3	Pino
+3	Coconino
+3	Fire Rock Casino
+3	Apache Nugget Casino
+3	zoo
+3	Tecuichpo
+19	Ollero
+19	Llanero
+3	Euro
+3	euro
+3	euro
+3	euro
+3	euro
+3	Mustela putorius furo
+11	peso
+11	peso
+13	peso
+5	, Zewoda no Densetso
+3	Kaibito
+3	Barboncito
+5	Manuelito
+7	Tonto
+5	Pavo
+5	Crozier (amerikan. Bez.), Djiwa’ldja, Hak-tala’kava, Haktutu’deva, Hê’l, Katha’t-nye-ha’, Muketega’de, Qwa’ga-we’, Sewi’, Taki’otha’wa, Wi-kanyo
+3	dictatorship
+11	boot camp
+11	Skraelingar
+3	dollar
+3	dollar
+3	dollar
+3	dollar
+3	dollar
+7	djazair al qamar
+3	dinar
+3	Heterocephalus glaber
+3	Castor fiber
+5	Castor fiber
+3	Acer
+3	Naturalis Historia of Pliny the Elder
+11	Administrative order
+7	Administrative order
+17	Orycteropus afer
+3	Colaptes auratus cafer
+5	Syncerus caffer
+7	honey badger
+3	Hippotragus niger
+3	Ostrich burger
+5	Speaker
+5	Arizona Miner
+7	The Star-Spangled Banner
+3	alligator juniper
+3	Sonchus asper
+11	ter
+7	Orbiter
+3	iupiter
+3	Alvarado Transportation Center
+3	Alvarado Transportation Center
+7	Grant/Charter
+7	charter
+5	salmon alabaster
+3	Hirundo rustica erythrogaster
+5	Hydromys chrysogaster
+3	prime minister
+5	tapir
+3	Variola major
+7	Variola major
+9	temblor
+3	Delphinium bicolor
+3	Rusa unicolor
+3	Puma concolor
+9	tremor
+3	Paradisaea minor
+5	Variola minor
+5	Variola minor
+7	Variola minor
+3	Eudyptula minor
+3	Chordeiles minor
+3	Plectrodera scalator
+3	wind generator, wind turbine, wind turbine generator (WTG), wind power unit (WPU), wind energy converter (WEC), or aerogenerator
+5	dictator
+3	Procyon lotor
+7	dinosaur
+5	armour
+5	Mesa de las Vacas
+3	Bashas
+5	Bashas
+3	Ardea herodias
+3	Tamias
+3	We Wish You a Merry Christmas
+5	savannas
+9	Yutas
+5	uwas
+5	antibiotics
+9	antibiotics
+5	Guinness Book of World Records
+3	Five Civilized Tribes
+3	Alces alces
+3	Chaetopappa ericoides
+3	Symphyotrichum ericoides
+3	Sialia currucoides
+3	Mirabilis oxybaphoides
+3	Verbesina encelioides
+3	Penstemon linarioides
+3	Artemisia franserioides
+3	Pelecanoides
+5	Achnatherum hymenoides
+5	Oryzopsis hymenoides
+3	Nyctereutes procyonoides
+3	Sporobolus airoides
+3	Colaptes chrysoides
+5	Amaranthus blitoides
+5	Andes
+7	Andes
+7	Andes
+3	Megadyptes antipodes
+9	Middle Ages
+3	Dark ages
+7	Indo-European Languages
+7	Indo-European Languages
+7	Indo-European Languages
+7	Indo-European Languages
+7	Indo-European languages
+9	Kiowa-Tanoan languages
+9	Yuma Apaches
+9	Yuma Apaches
+9	Mohave Apaches
+9	Yavapai Apaches
+7	Agencies
+5	Ovis aries
+3	Lories
+21	Wales
+5	nobles
+5	Needles
+3	Meles
+7	General Law on the Linguistic Rights of Indigenous Peoples
+5	James
+19	Hemes
+19	Hemes
+5	monotremes
+5	monotremes
+3	Navajo Times
+3	Psittaciformes
+3	Sphenisciformes
+7	Macropodiformes
+3	Strigiformes
+3	Coliiformes
+3	Ciconiiformes
+5	Ciconiiformes
+3	Charadriiformes
+3	Galliformes
+5	Galliformes
+3	Anguilliformes
+3	Tinamiformes
+3	Torpediniformes
+3	Falconiformes
+3	Falconiformes
+3	Anseriformes
+3	Siluriformes
+3	Pleuronectiformes
+7	Suiformes
+3	Gruiformes
+3	Falconimformes
+5	seaplanes
+3	Testudines
+3	Opiliones
+5	Scorpiones
+3	Vulpes vulpes
+3	Flores
+5	Flores
+7	comores
+3	spores
+3	square kilometres
+3	square kilometres
+5	square kilometres
+3	Notoryctes
+3	Connochaetes
+3	Hemicentetes
+5	Phragmites
+3	Paxistima myrsinites
+11	ratites
+3	Serpentes
+3	Martes martes
+3	Crotalus cerastes
+9	seismic waves
+3	Chondrichthyes
+5	prolegs
+3	figs
+9	Beale Springs
+10	antiviral drugs
+3	Sitophilus zeamais
+7	français
+3	Progne subis
+3	Ephedra viridis
+3	Anthonomus grandis
+9	Fiiningis
+5	Bubalus bubalis
+3	Leopardus pardalis
+13	Giraffa camelopardalis
+3	Sphyrapicus nuchalis
+3	Asparagus officinalis
+3	Lobelia cardinalis
+3	Cardinalis cardinalis
+3	Androsace septentrionalis
+5	Phragmites australis
+3	Dipsosaurus dorsalis
+3	Physalis
+5	Allenrolfea occidentalis
+3	Tradescantia occidentalis
+3	Ageratina occidentalis
+5	Cercis occidentalis
+5	Ovis orientalis
+3	Mustela nivalis
+3	Cotinis mutabilis
+3	Potentilla gracilis
+3	Bouteloua gracilis
+3	Coendou prehensilis
+3	Accipiter gentilis
+3	Ixobrychus exilis
+3	Pinus flexilis
+5	Gaura mollis
+3	Hydropotes inermis
+3	Manis
+3	Castilleja affinis
+5	Dendroctonus rufipennis
+3	Chionis
+3	Buceros bicornis
+3	Tetracerus quadricornis
+7	Alois
+3	Apis
+3	Sciurus vulgaris
+3	Erigeron flagellaris
+3	Crotaphytus collaris
+3	Rosalia funebris
+5	Hydrochoerus hydrochaeris
+3	Berberis
+3	Adiantum capillus-veneris
+9	Meleagris
+3	Panthera tigris
+3	Eremophila alpestris
+3	Kerodon rupestris
+3	Tribulus terrestris
+5	Manta birostris
+3	Cistothorus palustris
+3	Stachys palustris
+3	Tetraneuris
+3	Capricornis sumatraensis
+5	Buteo jamaicensis
+3	Glandularia canadensis
+3	Sitta canadensis
+3	Conyza canadensis
+3	Castor canadensis
+5	Castor canadensis
+5	Ovis canadensis
+3	Astragalus canadensis
+3	Grus canadensis
+5	Grus canadensis
+3	Cervus canadensis
+3	Lynx canadensis
+5	Swertia utahensis
+3	Amelanchier utahensis
+3	Polypogon monspeliensis
+3	Alligator mississippiensis
+3	Daubentonia madagascariensis
+3	Iris missouriensis
+3	Prionailurus bengalensis
+3	Gypohierax angolensis
+3	Cryptantha virginensis
+3	Cissa chinensis
+3	Tamarix chinensis
+3	Sitta carolinensis
+5	Varanus komodoensis
+5	Brachylagus idahoensis
+7	Mellivora capensis
+3	Pedetes capensis
+3	Mentha arvensis
+3	Croton texensis
+9	M. tuberculosis
+9	Mycobacterium tuberculosis
+3	Clematis
+3	Galictis
+3	Vitis
+5	Macrotis lagotis
+5	Dolichotis
+3	Otocyon megalotis
+3	Vulpes macrotis
+3	Spinus tristis
+11	kiwis
+3	Axis axis
+3	Navajo Falls
+3	Havasu Falls
+3	Mooney Falls
+5	Mooney Falls
+3	Maricopa Wells
+5	Captivity of the Oatman Girls
+3	Williams
+3	museums
+3	Toxicodendron radicans
+5	Dendroctonus micans
+5	Sayornis nigricans
+3	Galidia elegans
+5	Rechahecrians/Rickahockans
+5	Rechahecrians/Rickahockans
+5	Rechahecrians/Rickahockans
+5	Rechahecrians/Rickahockans
+3	Petauroides volans
+5	Boechera perennans
+5	Arabis perennans
+3	Abronia fragrans
+3	Canis latrans
+3	Sorghastrum nutans
+3	Myiarchus cinerascens
+3	Cymopterus purpurascens
+3	Forestiera pubescens
+3	Catharus fuscescens
+3	Tetradymia canescens
+3	Lithospermum canescens
+3	Atriplex canescens
+3	Otaria flavescens
+5	Ailurus fulgens
+3	Picea pungens
+3	Arctostaphylos pungens
+3	Erigeron divergens
+15	Bos grunniens
+3	Homo sapiens
+3	Apium graveolens
+3	Mahonia repens
+3	Trifolium repens
+5	Pyrola virens
+3	Sus cebifrons
+3	Lasiorhinus latifrons
+5	Pecos/Village of Pecos/Pueblo of Pecos
+9	cruzados
+5	Galapagos
+3	Corvus brachyrhynchos
+3	Gleditsia triacanthos
+5	Roskosmos
+5	okeanos
+13	amnos
+3	Tragelaphus strepsiceros
+5	Monodon monoceros
+3	Scolopendra heros
+3	Leopardus pajeros
+19	Hoyeros
+9	arctos
+3	Ursus arctos
+3	Aquila chrysaetos
+3	Prionailurus planiceps
+3	Megascops
+3	Rynchops
+13	light years
+5	light carriers
+3	Supercarriers
+7	Navajo Code Talkers
+5	commoners
+3	millimeters
+3	millimeters
+3	millimeters
+3	millimeters
+5	Superpowers
+3	G2V-spectral class
+7	Progress
+3	logboats
+3	alphabets
+3	astronomical units
+7	astronomical units
+3	volts
+3	hydrothermal vents
+5	huts
+3	Mus
+7	Mus
+3	Felis chaus
+3	Melilotus albus
+3	Bombus
+3	Bubo scandiacus
+3	Vaccinium/Cyanococcus
+3	Galemys pyrenaicus
+5	Rattus norvegicus
+3	Phasianus colchicus
+5	Ondatra zibethicus
+3	Lepus californicus
+3	Desmocerus californicus
+3	Petromus typicus
+3	Electrophorus electricus
+3	Asellus aquaticus
+3	Lepus arcticus
+3	Gavialis gangeticus
+3	Juncus balticus
+3	Pavo muticus
+3	Juncus
+3	Potamochoerus porcus
+3	Peromyscus
+7	Peromyscus
+3	Senecio flaccidus
+5	Lupinus lepidus
+7	Rangifer tarandus
+3	Panthera pardus
+3	Acrobates pygmaeus
+3	Agelaius phoeniceus
+9	dormeus
+7	anguineus
+7	Chlamydoselachus anguineus
+9	cinereus
+9	Phascolarctos cinereus
+3	Sciurus griseus
+3	Cordylus giganteus
+3	Lupinus argenteus
+3	Calochortus luteus
+3	Macropus rufus
+5	Lynx rufus
+3	Sylvilagus
+5	Dendrolagus
+5	Macrotolagus
+5	Proeulagus
+5	Brachylagus
+3	Salsola tragus
+3	Taurotragus
+5	fungus
+3	Rhus
+5	Neurotrichus
+3	Spirobranchus
+3	Cervus elaphus
+3	Baeolophus
+5	Lathyrus polymorphus
+3	Vultur gryphus
+11	Compsognathus
+3	Ceanothus
+3	Hylobius
+5	Xiphias gladius
+3	Platysaurus intermedius
+3	Rumex salicifolius
+3	Lupinus angustifolius
+3	Numenius
+5	Circus hudsonius
+3	Falco columbarius
+5	Camelus dromedarius
+5	Garrulus glandarius
+3	Cochlearius cochlearius
+3	Actitis macularius
+3	Sitophilus granarius
+5	Sagittarius serpentarius
+5	Casuarius casuarius
+3	Turdus migratorius
+3	Mustela putorius
+3	mercurius
+5	Speculum Majus
+3	Astragalus
+3	Xanthocephalus xanthocephalus
+5	Gymnorhinus cyanocephalus
+3	Thylacinus cynocephalus
+3	Sauromalus
+3	Rumex hymenosepalus
+11	Struthio camelus
+5	Spermophilus
+3	Ammospermophilus
+3	Spermophilus citellus
+3	Falco rusticolus
+5	Jaculus
+5	jaculus
+3	Ranunculus
+3	Convolvulus
+13	hippopotamus
+3	Limulus polyphemus
+5	Limulus polyphemus
+3	Astragalus mollissimus
+3	Ursus maritimus
+3	Rumex maritimus
+5	Lagostomus maximus
+3	Cetorhinus maximus
+3	Tetraopes tetrophthalmus
+7	Ophisthocomus
+3	Bathynomus
+3	Limnodromus
+5	Lagostomus
+5	Lathyrus eucosmus
+3	Oreamnos americanus
+3	Ursus americanus
+3	Gyps africanus
+3	Phacochoerus africanus
+3	Falco mexicanus
+3	Catherpes mexicanus
+3	Bubo virginianus
+5	Odocoileus virginianus
+3	Gymnogyps californianus
+3	Zalophus californianus
+3	Ursus thibetanus
+3	Cercocarpus montanus
+3	Pseudocymopterus montanus
+3	Hemigalus derbyanus
+5	Odobenus
+3	venus
+3	Cygnus
+5	Pinus
+5	Pinus
+3	Pyrocephalus rubinus
+3	Buteogallus anthracinus
+3	Lynx pardinus
+5	Antechinus
+3	Prionailurus viverrinus
+3	Ursus ursinus
+3	Vombatus ursinus
+3	Ornithorhynchus anatinus
+3	Fraxinus
+3	Kobus ellipsiprymnus
+3	Tyrannus
+3	saturnus
+3	Prunus prunus
+3	neptunus
+7	terrible, powerful, wondrous
+3	Astragalus allochrous
+3	Hippocampus
+3	Martes melampus
+3	Aepyceros melampus
+3	Buteo lagopus
+5	Vulpes lagopus
+5	Alopex lagopus
+3	Xenopus
+5	octopus
+3	Enoplometopus
+3	Astragalus lonchocarpus
+3	Scirpus
+3	Capricornis crispus
+3	Rumex crispus
+5	Canis lupus
+5	Canis lupus
+3	Rhincodon typus
+7	platypus
+5	Odobenus rosmarus
+3	Tragelaphus eurycerus
+3	Caprimulgus vociferus
+3	Charadrius vociferus
+3	Gopherus
+3	Juniperus
+5	Icterus
+5	Icterus
+3	Phoenicopterus
+5	Neophron percnopterus
+3	Capra aegagrus
+3	Pharomachrus
+3	Molothrus
+5	Tapirus
+5	RNA virus
+3	Chrysothamnus viscidiflorus
+3	Polyporus
+3	Bos gaurus
+3	Petaurus
+3	Alopecurus
+5	Eleodes obscurus
+3	Tamiasciurus
+3	Chrysocyon brachyurus
+3	Dasyurus
+3	Pyrus
+3	Lathyrus
+3	Caucasus
+5	Caucasus
+5	Caucasus
+3	Bison bonasus
+5	Chrysothamnus nauseosus
+3	Cordylanthus ramosus
+3	Ananas comosus
+3	Zigadenus venenosus
+3	Prionailurus rubiginosus
+3	Botaurus lentiginosus
+5	Pleiacanthus spinosus
+3	Verbascum thapsus
+3	Spheniscus demersus
+3	Chrysothamnus depressus
+3	Sarcobatus
+3	Penstemon barbatus
+3	Sus barbatus
+3	Erignathus barbatus
+5	Gypaetus barbatus
+5	Eumetopias jubatus
+3	Acinonyx jubatus
+5	Tenrec ecaudatus
+3	Galeopterus variegatus
+3	Hypsiprymnodon moschatus
+7	Ovibos moschatus
+5	Myrmecobius fasciatus
+3	Chelus fimbriatus
+5	Accipiter striatus
+3	Symphoricarpos orbiculatus
+5	Zigadenus paniculatus
+3	Melopsittacus undulatus
+3	Stenopelmatus
+3	Citrullus lanatus
+3	Cenchrus echinatus
+3	Derobrachus geminatus
+7	Tremarctos ornatus
+3	Andropogon glomeratus
+5	Tachypleus tridentatus
+3	Pavo cristatus
+5	Amblyrhynchus cristatus
+3	Cardinalis sinuatus
+3	Potamochoerus larvatus
+3	Cordylus cataphractus
+3	Chaetophractus
+5	Lycaon pictus
+3	Penstemon strictus
+3	Dasypus novemcinctus
+5	Pandion haliaetus
+5	Gypaetus
+3	Salpinctes obsoletus
+3	Paradoxurus hermaphroditus
+5	Eucalyptus
+5	eucalyptus
+3	Rattus
+5	Rattus rattus
+7	Bassariscus astutus
+3	Penstemon ambiguus
+3	Helianthus annuus
+3	Cucumis sativus
+3	Raphanus sativus
+3	Corvus
+3	Taxidea taxus
+3	Amaranthus retroflexus
+3	Solenodon paradoxus
+5	table of the cows
+11	Dream Pool Essays
+5	Dermochelys
+3	Graptemys
+3	Acomys
+3	Lemniscomys
+3	Dipodomys
+3	Thryonomys
+5	Cynomys
+7	cerēs
+9	Mutazilite Al-Kindi’s
+9	Abu Bakr al-Razi’s
+7	ring-tailed cat
+7	Miner’s cat
+3	manat
+3	Momaqui Mowat
+9	Congressional Act
+3	Indian Removal Act
+13	Indian Removal Act
+13	Indian Removal Act
+11	Self-Determination Act
+5	Self determination Act
+3	Indian Sanitation Facilities Act
+3	San Carlos Project Act
+5	Dawes General Allotment Act
+5	Dawes General Allotment Act
+5	Eastern dialect
+5	Western dialect
+5	insect
+11	Joint Army/Navy Phonetic Alphabet
+7	Blue Planet
+11	Nazaret
+3	Ringgit
+5	Spirit
+5	Spirit
+3	Asteroid belt
+7	Asteroid belt
+3	Cholla Power Plant
+3	Abitibi Snowflake Power Plant
+17	Panda Éclatant
+5	Indian Agent
+7	Orient
+3	trade agreement
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	chemical element
+3	National Monument
+3	National Monument
+5	National Monument
+13	standard of deferred payment
+11	wisent
+13	unit of account
+9	checking account
+9	savings account
+3	Harvey House Railroad Depot
+7	Far East
+9	tuberculin skin test
+5	hydrogeologist
+5	Hubbell Trading Post
+3	qiviut
+5	Nunavut
+5	nunavut
+5	Agwa’da, Ha’ke-takwi’va, Haksa’, Hānya-djiluwa’ya, Tha’ve-nalnalwi’dje, Wiwakwa’ga, Yiga’t
+11	Prime Tortoise of the Record Bureau
+3	Pecari tajacu
+7	Pudu
+7	pudu
+11	Nong Shu
+3	Siku Quanshu
+9	Nuutsiu
+11	emu
+5	Aru
+5	Jaqi aru
+5	Aymar aru
+11	tsu
+9	Guaguatu
+11	Tiangong Kaiwu
+5	ʼAha Makhav
+3	Lev
+5	Jaw
+7	Havasuuw
+3	Spalax
+3	Marmota monax
+3	Corvus corax
+3	Sphex
+3	Atriplex
+9	Balaeniceps rex
+3	Carex
+5	Echinosorex
+3	Toxicodendron vernix
+5	Tamarix
+5	Tamarix
+3	Lynx lynx
+9	fennec fox
+3	Phlox
+3	Cryptoprocta ferox
+5	Oryx
+11	Archaeopteryx
+5	oryx
+3	Uromastyx
+3	National Navajo Code Talkers Day
+13	Milky Way
+3	parliamentary democracy
+3	parliamentary democracy
+3	scorched earth policy
+9	currency
+9	currency
+5	Fiat currency
+13	money
+5	money
+11	Fiat money
+11	Fiat money
+11	fiat money
+11	fiat money
+3	mycology
+5	hydrogeology
+3	microbiology
+3	biotechnology
+3	monarchy
+3	absolute monarchy
+21	constitutional monarchy
+3	constitutional monarchy
+3	Lamy
+9	taxonomy
+13	Manifest Destiny
+13	Manifest Destiny
+11	Mary
+3	Hopi-English dictionary
+5	lepidoptery
+3	Defence of Fort McHenry
+9	Columbus laboratory
+9	Kibō laboratory
+3	Bonneville Treaty
+15	commondity
+3	principality
+11	bisexuality
+11	bisexuality
+11	heterosexuality
+11	heterosexuality
+3	Andean Community
+3	Salt River Pima-Maricopa Indian Community
+3	Salt River Pima-Maricopa Indian Community
+9	Gila River Indian Community
+5	Opportunity
+13	Milky Way galaxy
+13	Milky Way galaxy
+13	Milky Way galaxy
+9	Jemez
+19	Jemez
+7	Soyuz
+13	ποταμός
+13	αμνός
+3	Eris / Έρις
+13	ἵππος
+13	όρος
+13	الزرافة
+15	ἐγκύκλιος παιδεία
+7	русский язык
+3	Diyin God Biyeʼ
+3	Ploutōn / Πλούτων
